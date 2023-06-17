@@ -38,6 +38,7 @@ nav ul li a{
     text-decoration: none;
     color: black;
     font-family: 'Libre Baskerville';
+    font-weight: 600;
 }
 
 nav a:hover{
