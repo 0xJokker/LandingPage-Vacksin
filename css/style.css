@@ -1,11 +1,13 @@
+/* FONTS */
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&display=swap');
+
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'DynaPuff', cursive;
-    font-family: 'Libre Baskerville', serif;
-    font-family: 'Montserrat', sans-serif;
-    font-family: 'Source Serif Pro', serif;}
+    font-family: 'PT Serif', serif;
+}
 
 body{
     width: 100%;
@@ -37,7 +39,6 @@ nav ul li{
 nav ul li a{
     text-decoration: none;
     color: black;
-    font-family: 'Libre Baskerville';
     font-weight: 600;
 }
 
@@ -69,7 +70,6 @@ nav a:hover{
     font-size: 50px;
     font-weight: 700;
     color: #122F5F ;
-    font-family: 'Libre Baskerville';
 }
 
 .banner-info, .banner-img{
